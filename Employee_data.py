@@ -10,3 +10,4 @@ gross=basic_salary+da+hra+ta
 net=gross-lic
 print("Gross salary: ",gross)
 print("Net salary: ",net)
+
