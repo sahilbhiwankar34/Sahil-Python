@@ -11,3 +11,4 @@ net=gross-lic
 print("Gross salary: ",gross)
 print("Net salary: ",net)
 
+
