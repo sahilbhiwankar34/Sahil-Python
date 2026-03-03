@@ -19,3 +19,4 @@ print("Email ID:", email)
 print("Total Annual Purchase:", total)
 print("Average Monthly Purchase:", average)
 
+
