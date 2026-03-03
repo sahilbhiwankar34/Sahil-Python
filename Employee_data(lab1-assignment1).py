@@ -12,3 +12,4 @@ print("Gross salary: ",gross)
 print("Net salary: ",net)
 
 
+
