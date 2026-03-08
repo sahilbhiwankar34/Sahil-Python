@@ -1,0 +1,7 @@
+File=open("demo.txt","r")
+data=File.read()
+upper=data.upper()
+file=open("rr.txt","w")
+file.write(upper)
+file.close()
+File.close()
